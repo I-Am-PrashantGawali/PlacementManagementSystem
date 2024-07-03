@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\Programing\Winable\stockinfo\PlacementManagementSystem\.metadata\.plugins\org.eclipse.jdt.core
+2991654402.index
+3301003570.index
+1865797976.index
